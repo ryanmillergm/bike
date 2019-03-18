@@ -1,7 +1,8 @@
 class Bike
 
-  def initialize(name)
+  def initialize(name, speed)
     @name = name
+    @speed = speed
   end
 
 
